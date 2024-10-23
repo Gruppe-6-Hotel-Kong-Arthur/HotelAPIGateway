@@ -1,1 +1,1 @@
-# HotelManagementGateway
+# HotelAPIGateway
